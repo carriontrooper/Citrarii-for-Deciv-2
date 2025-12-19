@@ -70,9 +70,9 @@
 		"percentStatBonus": {"science": 15, "food": 15 },
 		"specialistSlots": {"Scientist": 1, "Farmer": 1 },
 		"uniques": [
-			"[+1 Food, +1 Science] from every [Tree plantation] <in this city>",
-			"[+1 Food, +1 Science] from every [Farm] <in this city>",
-			"[+1 Food, +1 Science] from every [Pasture] <in this city>",
+			"[+1 Food, +1 Science] from [Tree plantation] tiles [in this city]",
+			"[+1 Food, +1 Science] from [Farm] tiles [in this city]",
+			"[+1 Food, +1 Science] from [Pasture] tiles [in this city]",
 			"Only available <in cities with a [Library]>"],
 		
 	},
